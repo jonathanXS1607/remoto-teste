@@ -3,3 +3,5 @@ Git + Github
 [Dio](https://www.dio.me/)
 
 ## Documentos Git
+
+Teste
